@@ -16,7 +16,7 @@ Project ini adalah sebuah sistem otomasi aliran data (*data pipeline*) sederhana
 
 <div align="center">
   <img src="assets/gsheets.jpg" width="750" alt="Google Sheets">
-  <p><i>Hasil Form yang tersubmit di Google Sheets</i></p>
+  <p><i>Data kuesioner yang tercatat secara real-time di Google Sheets</i></p>
 </div>
 
 ## Tech Stack
