@@ -5,8 +5,18 @@
 Project ini adalah sebuah sistem otomasi aliran data (*data pipeline*) sederhana berbasis *serverless* yang dirancang untuk menghubungkan **Google Forms** dan **Google Sheets** langsung ke **Notion Database** secara *real-time*.
 
 <div align="center">
-  <img src="assets/demo.gif" width="750" alt="Demo Real-Time Pipeline">
-  <p><i>Demo alur data: Google Form (Kiri) ➡️ Google Sheets (Kanan Atas) ➡️ Notion (Kanan Bawah).</i></p>
+  <img src="assets/demo.gif" width="750" alt="Demo Real-Time">
+  <p><i>Demo Project</i></p>
+</div>
+
+<div align="center">
+  <img src="assets/notiondb.jpg" width="750" alt="Database Notion">
+  <p><i>Database Notion</i></p>
+</div>
+
+<div align="center">
+  <img src="assets/gsheets.jpg" width="750" alt="Google Sheets">
+  <p><i>Hasil Form yang tersubmit di Google Sheets</i></p>
 </div>
 
 ## Tech Stack
