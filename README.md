@@ -2,11 +2,9 @@
 
 ## Perkenalan Project
 
-Project ini adalah sebuah sistem otomasi aliran data (*data pipeline*) berbasis *serverless* yang dirancang untuk menghubungkan **Google Forms** dan **Google Sheets** langsung ke **Notion Database** secara *real-time*.
-
+Project ini adalah sebuah sistem otomasi aliran data (*data pipeline*) sederhana berbasis *serverless* yang dirancang untuk menghubungkan **Google Forms** dan **Google Sheets** langsung ke **Notion Database** secara *real-time*.
 
 <img src="assets/demo.gif" width="700" alt="Demo Integrasi Notion">
-
 
 ## Tech Stack
 
