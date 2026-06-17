@@ -4,8 +4,17 @@
 
 Project ini adalah sebuah sistem otomasi aliran data (*data pipeline*) berbasis *serverless* yang dirancang untuk menghubungkan **Google Forms** dan **Google Sheets** langsung ke **Notion Database** secara *real-time*.
 
-<video src="https://raw.githubusercontent.com/reinhez/Serverless-GForm-to-Notion-API-Integration/main/assets/demo.mp4" width="700" autoplay loop muted playsinline>
+<video src="https://github.com/user-attachments/assets/2dab91b4-56d5-4b77-afb6-566e4b0ea8d7" width="700" autoplay loop muted playsinline>
 </video>
+
+
+
+
+
+
+
+
+
 
 ## Tech Stack
 
